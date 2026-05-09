@@ -95,6 +95,8 @@ Includes:
 
 ---
 
+# run "streamlit run app.py" to get a browser based gui .
+
 # 🧠 Scientific Motivation
 
 Cancer rewires cellular signaling pathways and protein interactions.
